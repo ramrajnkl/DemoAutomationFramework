@@ -7,7 +7,7 @@ import org.testng.annotations.BeforeClass;
 
 public class BaseClass {
 	
-	public String baseURL="http://demo.guru99.com/Agile_Project/Agi_V1/";
+	public String baseURL="http://demo.guru99.com/V1/index.php";
 	public String username = "mngr366098";
 	public String password = "Aguhame";
 	public static WebDriver driver;

@@ -20,7 +20,7 @@ public class TC_LoginTest_001 extends BaseClass {
 		
 		lp.clickSubmit();
 		
-		if(driver.getTitle().equals(" GTPL Bank Home Page "))
+		if(driver.getTitle().equals("GTPL Bank Manager HomePage"))
 		{
 			Assert.assertTrue(true);
 		}
