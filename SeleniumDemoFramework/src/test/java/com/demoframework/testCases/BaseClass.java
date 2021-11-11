@@ -1,5 +1,7 @@
 package com.demoframework.testCases;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
@@ -11,6 +13,7 @@ public class BaseClass {
 	public String username = "mngr366098";
 	public String password = "Aguhame";
 	public static WebDriver driver;
+	public  static Logger logger;
 	
 	@BeforeClass
 	public void setup()
@@ -19,6 +22,10 @@ public class BaseClass {
 				 System.getProperty("user.dir") +"\\Drivers\\chromedriver.exe");
 		
 		driver=new ChromeDriver();
+		
+		
+		logger = Logger.getLogger("SeleniumDemoFramework");
+		PropertyConfigurator.configure("log4j.properties");
 		
 	}
 	
