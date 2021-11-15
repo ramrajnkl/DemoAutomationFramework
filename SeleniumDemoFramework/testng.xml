@@ -1,9 +1,13 @@
-<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
-<suite name = "SeleniumDemoFramework">
-   <test name = "Sample test">
-      <classes>
-         <class name = "TC_LoginTest_001" />
-      </classes>
-   </test>
+<suite name="SeleniumDemoFramework">
+
+	<test name="Selenium Test">
+		<parameter name="browser" value="chrome">
+			<classes>
+				<class name="com.demoframework.testCases.TC_LoginTest_001" />
+			</classes>
+		</parameter>
+	</test>
+
 </suite>
