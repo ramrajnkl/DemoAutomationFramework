@@ -2,6 +2,8 @@ package com.demoframework.testCases;
 
 
 
+import java.io.IOException;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -10,7 +12,7 @@ import com.demoframewrk.pageObjects.LoginPage;
 public class TC_LoginTest_001 extends BaseClass {
 	
 	@Test
-	public void loginTest()
+	public void loginTest() throws IOException
 	{
 		driver.get(baseURL);
 		
@@ -33,6 +35,7 @@ public class TC_LoginTest_001 extends BaseClass {
 		}
 		else
 		{
+			captureScreen(driver, "loginTest");
 			Assert.assertTrue(false);
 			logger.info("Login Test failed");
 		}
