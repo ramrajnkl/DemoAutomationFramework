@@ -1,50 +1,5 @@
-2021-11-11 21:05:27 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-11 21:05:27 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-11 21:05:27 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-11 21:05:47 INFO  SeleniumDemoFramework:32 - Login Test Passed
-  2021-11-12 21:46:46 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-12 21:46:46 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-12 21:46:46 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-12 21:46:47 INFO  SeleniumDemoFramework:32 - Login Test Passed
-  2021-11-15 20:37:14 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-15 20:37:14 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-15 20:37:14 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-15 20:37:16 INFO  SeleniumDemoFramework:32 - Login Test Passed
-  2021-11-15 20:46:33 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-15 20:46:33 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-15 20:46:33 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-15 20:46:34 INFO  SeleniumDemoFramework:32 - Login Test Passed
-  2021-11-15 20:57:32 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-15 20:57:32 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-15 20:57:32 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-15 20:57:34 INFO  SeleniumDemoFramework:32 - Login Test Passed
-  2021-11-15 20:57:58 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-15 20:57:58 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-15 20:57:58 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-15 20:58:00 INFO  SeleniumDemoFramework:32 - Login Test Passed
-  2021-11-15 21:04:23 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-15 21:04:23 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-15 21:04:23 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-15 21:04:26 INFO  SeleniumDemoFramework:32 - Login Test Passed
-  2021-11-16 20:09:36 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-16 20:09:37 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-16 20:09:37 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-16 20:09:38 INFO  SeleniumDemoFramework:32 - Login Test Passed
-  2021-11-16 20:10:54 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-16 20:10:54 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-16 20:10:54 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-16 20:10:56 INFO  SeleniumDemoFramework:32 - Login Test Passed
-  2021-11-16 20:13:08 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-16 20:13:08 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-16 20:13:08 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-16 20:14:50 INFO  SeleniumDemoFramework:17 - URL is Opened
-  2021-11-16 20:14:51 INFO  SeleniumDemoFramework:21 - Entered UserName
-  2021-11-16 20:14:51 INFO  SeleniumDemoFramework:24 - Entered Password
-  2021-11-16 20:14:52 INFO  SeleniumDemoFramework:32 - Login Test Passed
-  2021-11-16 20:22:43 INFO  SeleniumDemoFramework:19 - URL is Opened
-  2021-11-16 20:22:43 INFO  SeleniumDemoFramework:23 - Entered UserName
-  2021-11-16 20:22:43 INFO  SeleniumDemoFramework:26 - Entered Password
-  2021-11-16 20:25:40 INFO  SeleniumDemoFramework:19 - URL is Opened
-  2021-11-16 20:25:40 INFO  SeleniumDemoFramework:23 - Entered UserName
-  2021-11-16 20:25:41 INFO  SeleniumDemoFramework:26 - Entered Password
+2021-11-17 20:41:47 INFO  SeleniumDemoFramework:19 - URL is Opened
+  2021-11-17 20:41:48 INFO  SeleniumDemoFramework:23 - Entered UserName
+  2021-11-17 20:41:48 INFO  SeleniumDemoFramework:26 - Entered Password
+  2021-11-19 21:46:54 INFO  SeleniumDemoFramework:27 - providing customer details....
   

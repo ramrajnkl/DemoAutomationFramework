@@ -5,9 +5,7 @@
     <classes>
       <class name="com.demoframework.testCases.TC_LoginTest_001">
         <methods>
-          <include name="setup"/>
           <include name="loginTest"/>
-          <include name="teardown"/>
         </methods>
       </class> <!-- com.demoframework.testCases.TC_LoginTest_001 -->
     </classes>

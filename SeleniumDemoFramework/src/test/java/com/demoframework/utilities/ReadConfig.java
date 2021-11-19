@@ -22,9 +22,7 @@ public class ReadConfig {
 		catch(Exception ex)
 		{
 			System.out.println("Exception is " + ex.getMessage());
-		}
-		
-		
+		}	
 	}
 	
 	

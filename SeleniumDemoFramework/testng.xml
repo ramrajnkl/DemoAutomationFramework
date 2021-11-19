@@ -9,9 +9,10 @@
 	<test name="Selenium Test">
 		<parameter name="browser" value="chrome">
 			<classes>
-				<class name="com.demoframework.testCases.TC_LoginTest_001" />
+				<!-- <class name="com.demoframework.testCases.TC_LoginTest_001" /> -->
+				<class name="com.demoframework.testCases.TC_AddCustomerTest_003" />
+				
 			</classes>
 		</parameter>
 	</test>
-
 </suite>

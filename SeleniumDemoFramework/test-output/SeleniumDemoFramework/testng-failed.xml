@@ -8,13 +8,13 @@
   <test name="Selenium Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.demoframework.testCases.TC_LoginTest_001">
+      <class name="com.demoframework.testCases.TC_AddCustomerTest_003">
         <methods>
           <include name="setup"/>
-          <include name="loginTest"/>
+          <include name="addNewCustomer"/>
           <include name="teardown"/>
         </methods>
-      </class> <!-- com.demoframework.testCases.TC_LoginTest_001 -->
+      </class> <!-- com.demoframework.testCases.TC_AddCustomerTest_003 -->
     </classes>
   </test> <!-- Selenium Test(failed) -->
 </suite> <!-- Failed suite [SeleniumDemoFramework] -->
